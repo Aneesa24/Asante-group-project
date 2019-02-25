@@ -1,0 +1,30 @@
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+table, th, td{
+  border: 1px solid black;
+  }
+
+p1{
+  width: 40%;
+  letter-spacing: normal;
+  margin: 20 10vw 10vh 10vw;
+  font-size: 2em;
+}
+
+<div id= "Home" class="items">
+  </div>
+
+<div id="Women's Accessories" class="items" style="display:none">
+  </div>
+
+<div id="Mens's Accessories" class="items" style="display:none">
+    </div>
+
+  <div id="Household Items" class="items" style="display:none">
+      </div>
